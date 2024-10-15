@@ -1,6 +1,5 @@
 # assign1git
 Kurtis Styers   
-
 First commit   
-
-testbranch change
+testbranch change   
+This is a change on newbranch   
