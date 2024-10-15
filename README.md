@@ -1,6 +1,5 @@
 # assign1git
 Kurtis Styers   
-
 First commit   
-
-testbranch change
+testbranch change   
+new git branch on GitHub
